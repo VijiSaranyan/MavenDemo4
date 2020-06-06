@@ -13,16 +13,7 @@
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
-<<<<<<< HEAD
     
-=======
-	
-	
-	
-
-    
-	
->>>>>>> branch 'master' of https://github.com/VijiSaranyan/MavenDemo4.git
     </dependency>
     <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 	<dependency>
@@ -36,20 +27,13 @@
   <artifactId>htmlunit-driver</artifactId>
   <version>2.34.0</version>
 </dependency>
-<<<<<<< HEAD
-   
-=======
-	  
 
->>>>>>> branch 'master' of https://github.com/VijiSaranyan/MavenDemo4.git
   </dependencies>
-<<<<<<< HEAD
+
   <properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
   
 </project>
-=======
-</project>
->>>>>>> branch 'master' of https://github.com/VijiSaranyan/MavenDemo4.git
+
