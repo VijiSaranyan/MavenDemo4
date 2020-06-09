@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-08T12:11:38 PDT" name="Default suite" finished-at="2020-06-08T12:11:45 PDT" duration-ms="6893">
+  <suite started-at="2020-06-08T21:00:55 PDT" name="Default suite" finished-at="2020-06-08T21:01:19 PDT" duration-ms="23750">
     <groups>
     </groups>
-    <test started-at="2020-06-08T12:11:38 PDT" name="Default test" finished-at="2020-06-08T12:11:45 PDT" duration-ms="6893">
-      <class name="com.testcase.FrameHandling">
-        <test-method signature="login()[pri:0, instance:com.testcase.FrameHandling@436813f3]" started-at="2020-06-08T12:11:38 PDT" name="login" finished-at="2020-06-08T12:11:45 PDT" duration-ms="6836" status="PASS">
+    <test started-at="2020-06-08T21:00:55 PDT" name="Default test" finished-at="2020-06-08T21:01:19 PDT" duration-ms="23750">
+      <class name="com.testcase.KeyBoardMovements">
+        <test-method signature="login()[pri:1, instance:com.testcase.KeyBoardMovements@436813f3]" started-at="2020-06-08T21:00:55 PDT" name="login" finished-at="2020-06-08T21:01:19 PDT" duration-ms="23708" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-      </class> <!-- com.testcase.FrameHandling -->
+      </class> <!-- com.testcase.KeyBoardMovements -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
